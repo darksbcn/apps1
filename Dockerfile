@@ -1,2 +1,1 @@
 FROM oraclelinux
-MAINTAINER darksbcn
