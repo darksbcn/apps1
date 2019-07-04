@@ -1,1 +1,1 @@
-FROM darkbcn/oraclelinux
+FROM oraclelinux
